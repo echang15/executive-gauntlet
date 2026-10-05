@@ -1,0 +1,72 @@
+/* Shared styles for the Friday Counterfeit participant handouts. Letter size, print-ready. */
+:root{--ink:#1b1f2a;--muted:#5b6272;--rule:#d5d9e2;--bleu:#1f3f8f;--bleu-d:#142a63;--gold:#b9892b;--paper:#ffffff;--tint:#f3f5fa;--alert:#a8261c}
+*{box-sizing:border-box}
+html{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+body{margin:0;background:#e9ebf0;color:var(--ink);font:14px/1.5 -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+@page{size:Letter;margin:0}
+.page{width:8.5in;min-height:11in;margin:.3in auto;background:var(--paper);padding:.55in .6in .7in;position:relative;box-shadow:0 2px 14px rgba(0,0,0,.12);page-break-after:always;break-after:page;overflow:hidden}
+.page:last-child{page-break-after:auto;break-after:auto}
+@media print{body{background:#fff}.page{margin:0;box-shadow:none;height:11in;min-height:0}}
+.mast{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:3px solid var(--bleu);padding-bottom:8px;margin-bottom:22px}
+.mast .org{font-weight:800;letter-spacing:.14em;font-size:11px;color:var(--bleu);text-transform:uppercase}
+.mast .tag{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:right}
+.exh{display:inline-block;background:var(--bleu);color:#fff;font-weight:800;letter-spacing:.12em;font-size:12px;padding:4px 12px;border-radius:2px;text-transform:uppercase}
+h1{font-size:26px;line-height:1.15;margin:10px 0 4px}
+h2{font-size:17px;margin:26px 0 8px;color:var(--bleu-d);border-bottom:1px solid var(--rule);padding-bottom:4px}
+h3{font-size:14px;margin:18px 0 6px;color:var(--bleu-d)}
+.sub{color:var(--muted);margin:0 0 18px}
+.foot{position:absolute;left:.6in;right:.6in;bottom:.3in;border-top:1px solid var(--rule);padding-top:6px;font-size:9.5px;color:var(--muted);display:flex;justify-content:space-between;letter-spacing:.04em}
+table{border-collapse:collapse;width:100%;margin:10px 0 14px;font-size:13px}
+th,td{border:1px solid var(--rule);padding:6px 9px;text-align:left;vertical-align:top}
+th{background:var(--tint);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+blockquote{margin:12px 0;padding:8px 16px;border-left:4px solid var(--gold);background:#fbf7ec;color:#3a3220}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}li{margin:3px 0}
+.note{font-size:12px;color:var(--muted)}
+.big{font-size:16px}
+.stamp{display:inline-block;border:2px solid var(--alert);color:var(--alert);font-weight:800;letter-spacing:.16em;font-size:11px;padding:3px 10px;transform:rotate(-2deg);text-transform:uppercase}
+.right{text-align:right}.num{text-align:right;font-variant-numeric:tabular-nums}
+
+/* social post (generic, unbranded) */
+.post{border:1px solid var(--rule);border-radius:14px;padding:20px 26px;background:#fff;font-size:18px;line-height:1.45}
+.who{display:flex;gap:14px;align-items:center;margin-bottom:14px}
+.av{width:58px;height:58px;border-radius:50%;background:#3b5fb8;color:#fff;font-weight:800;font-size:22px;display:flex;align-items:center;justify-content:center;flex:none}
+.who b{font-size:19px;display:block}.who span{color:var(--muted);font-size:15px}
+.meta{color:var(--muted);font-size:14px;margin-top:16px;padding-bottom:14px;border-bottom:1px solid var(--rule)}
+.stats{display:flex;gap:26px;padding:12px 0;border-bottom:1px solid var(--rule);font-size:15px;color:var(--muted)}.stats b{color:var(--ink)}
+.reply{display:flex;gap:12px;padding:9px 4px;border-bottom:1px solid var(--rule);font-size:15px;line-height:1.4}
+.reply .av{width:40px;height:40px;font-size:15px}.reply b{font-size:14.5px}.reply span{color:var(--muted);font-size:13px}
+/* phone thread */
+.phone{width:4.6in;margin:0 auto;border:2px solid #cfd3dc;border-radius:30px;padding:14px 18px 16px;background:#f6f7fa}
+.phone .hd{text-align:center;border-bottom:1px solid var(--rule);padding-bottom:10px;margin-bottom:12px;font-weight:700}.phone .hd small{display:block;color:var(--muted);font-weight:400}
+.ts{text-align:center;color:var(--muted);font-size:11.5px;margin:14px 0 8px}
+.b{max-width:80%;padding:9px 13px;border-radius:18px;margin:5px 0;font-size:14px;line-height:1.4}
+.b.in{background:#e3e6ed;border-bottom-left-radius:5px}.b.out{background:#2f6fe0;color:#fff;margin-left:auto;border-bottom-right-radius:5px}
+.rcpt{text-align:right;font-size:11px;color:var(--muted);margin:-2px 4px 6px}
+.photo{width:210px;height:120px;border-radius:12px;background:linear-gradient(135deg,#9aa0aa,#cfd3d9 55%,#8c929c);position:relative;overflow:hidden;margin:6px 0}
+.photo i{position:absolute;left:30px;top:34px;width:150px;height:46px;background:#e8e9ea;border-radius:3px;filter:blur(2.4px);font:700 17px/46px monospace;text-align:center;color:#444;font-style:normal;letter-spacing:2px}
+.photo em{position:absolute;bottom:6px;left:8px;font-size:10px;color:#fff;font-style:normal;text-shadow:0 0 3px #000}
+/* email */
+.mail{border:1px solid var(--rule);border-radius:6px}
+.mail .h{background:var(--tint);padding:12px 18px;border-bottom:1px solid var(--rule);font-size:13px}
+.mail .h div{margin:2px 0}.mail .h b{display:inline-block;width:70px;color:var(--muted);font-weight:600}
+.mail .bd{padding:14px 20px;font-size:14px;line-height:1.5}
+.hl{background:#fff2a8}
+/* menu */
+.menu{border:2px solid var(--bleu);outline:1px solid var(--gold);outline-offset:-9px;padding:.35in .55in;text-align:center;font-family:Georgia,"Times New Roman",serif;background:#fffdf8}
+.menu .k{letter-spacing:.3em;text-transform:uppercase;font-size:11px;color:var(--gold)}
+.menu h1{font-size:30px;font-weight:400;letter-spacing:.06em;margin:6px 0}
+.menu .price{font-size:19px;font-style:italic;color:var(--bleu)}
+.course{margin:11px 0}.course .n{font-size:11px;letter-spacing:.25em;color:var(--gold);text-transform:uppercase}
+.course .t{font-size:19px;margin:2px 0}.course .d{font-size:14px;color:#555;font-style:italic}
+.orn{color:var(--gold);letter-spacing:.6em;margin:10px 0}
+.pledge{margin-top:22px;padding-top:14px;border-top:1px solid var(--gold);font-size:14px;font-style:italic}
+/* worksheet */
+.line{border-bottom:1px solid #8b92a3;height:30px}
+.content{width:100%}
+.box{border:1.5px solid var(--bleu);border-radius:4px;padding:12px 16px;margin:12px 0 20px}
+.box .lbl{font-weight:800;color:var(--bleu-d);letter-spacing:.06em;text-transform:uppercase;font-size:12px}
+.chk{display:inline-block;width:13px;height:13px;border:1.5px solid #555;border-radius:2px;vertical-align:-2px;margin-right:8px}
+table.compact{font-size:12px;margin:6px 0 10px}table.compact th,table.compact td{padding:3px 8px}
+.line{height:27px}
+.box{margin:8px 0 14px;padding:10px 14px}
