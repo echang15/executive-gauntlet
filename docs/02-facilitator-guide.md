@@ -1,4 +1,7 @@
 # FACILITATOR'S GUIDE: "The Friday Counterfeit"
+### Bleu Hen Hospitality Group
+
+> **Read `00-scenario-bible.md` before anything else.** It holds every name, number and the hidden truth behind the story. Keep it to yourself and the Role Player.
 
 **Format:** 80-minute live leadership simulation
 **Participants:** 20 students in 2 teams of 10
@@ -42,6 +45,8 @@ By the end, participants can:
   - Blank paper and pens at each table, plus one whiteboard or flip chart per table if available.
 - **Slide or whiteboard** with the pitch structure: Current State, Proposed Action, Immediate Cost, The Ask.
 - **A bell, chime or hand-held timer** for pitch time signals.
+- **Immersion props** (cheap and worth it): put a printed **Lovebird Tasting menu** (Exhibit D) at each table, a printout of the **reservation board** (Exhibit B), and a **printed copy of the reporter's tweet** (Exhibit A). If you can, add a small vase with a single red flower on each table and play low jazz as people arrive. Stop the music when the Drop begins.
+- **Optional sound:** a phone alarm or a pre-loaded "ringing phone" sound you can play at the 28:00 and 41:00 beats.
 - **Brief the Role Player** at least 15 minutes before the session. Confirm they have Document 3. Agree on one subtle signal to end an over-long Q&A.
 
 ### Seating
@@ -54,7 +59,7 @@ Assign teams in advance if you can. Mix backgrounds and majors so neither team i
 **Tone:** Calm, direct and a little urgent. You are modeling what you are about to teach.
 
 ### 00:00 – 02:00 | Frame the session
-> "For the next 80 minutes you're not students. You're the operating team of a company in crisis. You will make a real decision with incomplete information and defend it to an executive who does not have time for you. Nobody gets a perfect answer. The skill we're training is deciding well anyway, and saying it clearly."
+> "For the next 80 minutes you're not students. You're the operating team of Bleu Hen Hospitality Group, a beloved Delaware restaurant company in crisis. You will make a real decision with incomplete information and defend it to an executive who does not have time for you. Nobody gets a perfect answer. The skill we're training is deciding well anyway, and saying it clearly."
 
 Preview the arc: briefing, 25-minute prep, a 3-minute pitch, then a debrief.
 
@@ -117,7 +122,9 @@ Confirm questions, then move straight into The Drop.
 ## 3. The Drop (15:00 – 20:00)
 
 - **15:00:** Announce the 2 teams of 10. Send people to their tables.
-- **15:30:** Read aloud only: *"It's 2:00 PM on Friday. You have until 5:00 PM. Turn over your briefing."*
+- **15:30:** Stop the music. Lower the lights if you can. Read this aloud slowly, with no extra commentary:
+
+  > *"It is 2:00 PM, Friday, February thirteenth. In the kitchen at the Riverfront Bistro, the flounder is already portioned. The roulade was rolled at noon. Eleven hundred and thirty guests are coming this weekend: first dates, anniversaries, a few marriage proposals. Nineteen minutes ago, a reporter put out a message that says your 'local, sustainable' supplier is a fraud, and that she has proof. She publishes at five. The doors open at five. Your Owner is waiting for you. Turn over your briefing."*
 - **16:00 – 19:00:** Participants read silently. Do not answer strategy questions. Redirect with: *"That's one of the things you have to decide."* Clarifying logistics questions are fine.
 - **19:00:** Remind them: 3 deliverables, 1 or 2 spokespeople, a 3-minute pitch, and about 8 minutes of Owner questions. Remind them that **the Owner may question anyone on the team**, and that deliverables lock at 45:00. Suggest splitting into three sub-squads, and tell them to reconvene as one team by about minute 40.
 - **19:30:** Final reminder that the War Room starts in 30 seconds.
@@ -133,6 +140,23 @@ Confirm questions, then move straight into The Drop.
 - Time calls: **at 30:00** (10 min elapsed), **at 40:00** (5 min left; "Reconvene as one team and check that your three deliverables match"), **at 43:00** (2 min left), **at 44:30** ("Spokespeople, stand up. Hand me your deliverables.").
 - Watch for a team where 2 or 3 people dominate. Note it for the debrief; don't intervene.
 - If a team is stuck on analysis paralysis, ask only: *"What would you tell the Owner if the call were in 60 seconds?"*
+
+### Ambient Pressure Beats (optional, recommended)
+
+Short, in-voice interruptions that make the room feel alive. Read in a flat, urgent, real-time voice. Do not stop the clock, and don't answer questions about them.
+
+**28:00: "The Feed"** (stand and call across the room; 15 seconds)
+> *"Update from Marketing. The reporter's post is past six thousand shares. Two TV stations have called. The Bistro's phones are ringing and the host stand doesn't know what to say. Reservation system: thirty-one cancellations."*
+
+**41:00: "A Guest Writes In"** (read at the center of the room; 20 seconds)
+> *"Priya just forwarded this. A guest with a table at the Riverfront tonight, booked six weeks ago. Quote: 'We're getting engaged at dinner. I booked this place because of the farm story. Is the Lovebird menu still local? Please be honest with me.' She's asking for an answer by four."*
+
+**43:30: "Lineup in 45 Minutes"** (call aloud; 10 seconds)
+> *"Lineup is at 4:15. Your servers will say whatever you hand them."*
+
+(That last beat pairs with the "2 minutes left" time call.)
+
+---
 
 ### MID-POINT INJECT: exactly at 35:00 (15 minutes into the War Room)
 
@@ -157,27 +181,36 @@ Confirm questions, then move straight into The Drop.
 **Inject card text (print on distinct paper, e.g., red or bright yellow)**
 
 > **URGENT: 3:05 PM**
-> **From: Corporate Counsel**
+> **From: Hal Brandt, Outside Counsel**
 >
-> Our supplier has just responded to the journalist's inquiry. They **deny all claims** and have issued a statement through their attorney.
+> Calvin Teague has responded to the reporter, and to us.
 >
-> They have also sent us a formal letter. They state that if the restaurant group **pulls, returns or publicly disparages** their product, they will:
-> 1. File a **defamation lawsuit** against the group, and
-> 2. Pursue **breach-of-contract penalties** under our exclusive supply agreement.
+> **His public statement:** *"These claims are false and malicious. Brandywine has fed Delaware families with pride for 22 years. We will not be bullied by a reporter chasing clicks."* Teague is also at a local TV station right now. He's calling the story "an attack on 60 hardworking families."
 >
-> The letter does not specify the penalty amount. Counsel says it "could be substantial."
+> **His letter to us**, sent through his attorney, states that if the group **pulls, returns or publicly disparages** Brandywine product, he will:
+> 1. File a **defamation lawsuit** against Bleu Hen Hospitality Group, and
+> 2. Pursue **breach-of-contract penalties** under our exclusive supply agreement, which has 18 months remaining.
 >
-> *You still have no independent proof that the journalist's claims are true or false. The article still publishes at 5:00 PM.*
+> The letter does not name an amount.
+>
+> **My read:** The contract has a damages clause. I can't tell you the number off the cuff, and I can't tell you whether the journalist's claims are true. You have no independent proof either way. If you say anything public that sounds like an accusation, you could hand him his lawsuit. If you say nothing and the story is true, you are serving your guests something you promised you weren't.
+>
+> *The article still publishes at 5:00 PM. Lineup is at 4:15. I'm on the phone. Decide.*
 
 **What the inject is designed to do**
 - Make the "just pull it" option legally and financially riskier.
 - Make the "serve it" option feel safer, which it isn't.
 - Test whether teams update their plan or defend the old one.
 
-**If asked questions about the inject:** answer in character, as Counsel or a staff member, and keep it short:
-- *"Can we get proof?"* "Not in the next three hours."
-- *"How big are the penalties?"* "Unknown. Possibly six figures."
-- *"Can we say we're 'pausing' the product?"* "That's one way to describe it. You'd have to defend that wording."
+**If asked questions about the inject:** answer in character as Counsel (Hal Brandt) or the relevant staff member. Keep it short, consistent with `00-scenario-bible.md`, and stay in the Role Player's voice:
+- *"Can we get proof?"* "Not in the next three hours. I can call the state ag department. They won't pick up on a Friday."
+- *"How big are the penalties?"* "There's a damages clause. It could be low to mid six figures, plus fees. I'd want a day to give you a real number."
+- *"Can we say we're 'pausing' the product instead of 'pulling' it?"* "That's one way to describe it. You would have to be able to defend that wording to a reporter."
+- *"Can we say 'we're investigating'?"* "You can. Then you'd better be investigating. Don't say it if it's a stall."
+- *"Can we call the reporter?"* "Lena can. I'd want to be on the call. She's on a 4:00 deadline, and anything you say is on the record."
+- *"Is the insurance going to cover the $40K?"* "I doubt it. I'll ask. I wouldn't count on it."
+- *"What's Teague like?"* "Well-liked. Possibly innocent. Possibly not. I'd be careful about the word 'liar.'"
+- *"What does the Chef know?"* "Rafi's in the kitchen. He's not talking much. Tess flagged a label to him on Tuesday."
 
 Do not resolve the dilemma for them.
 
@@ -281,10 +314,20 @@ Quickly reveal your own observations for 60 seconds. Name two specific, positive
 
 *Listen for:* consistency vs. contradiction between internal and external messages.
 
+**Optional Q4b: The sous chef (Tess) and the dismissed warning**
+> "On Tuesday, someone saw something odd and a senior person said 'don't worry about it.' How would your own team's culture have handled that? What would you change?"
+
 **Optional Q5 (if time allows): Pressure and presence**
 > "The Owner interrupted you. How did that feel, and what did you do with it?"
 
 *Connect to:* Executive presence, and the fact that senior leaders often interrupt not out of hostility but to test conviction.
+
+### Optional Reveal (75:00, 60 seconds, only if the room is ready for it)
+Tell the room, as the facilitator, that in the scenario file the allegation was **partly true**: about half of Brandywine's volume was repackaged from out-of-state processors, the Owner and Chef were not in on it, and there were warning signs (Tess's label, the 14% price drop, the pork) that were explained away.
+
+> "Nobody could have known that by 5:00 PM. But three small signals were already on the table. What do those look like in your own work: a 'weird' log line, a vendor whose price drops too far, a teammate who says 'this doesn't feel right'?"
+
+Connect to normalization of deviance and why leaders have to build channels for bad news to travel *up*.
 
 ### 78:00 | Close (90 seconds)
 Give three takeaways, then end on time:

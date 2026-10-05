@@ -8,13 +8,38 @@
 
 ## 1. The Situation From Your Point of View
 
-It's **2:00 PM on Friday of Valentine's Day weekend**. All three restaurants are fully booked. Projected weekend revenue is **$200,000**.
+### Who you are
+You are the **Owner and founder of Bleu Hen Hospitality Group**. You started in 2015 with one 40-seat bistro, a hand-painted sign of a blue hen holding a fork, and a promise you wrote yourself:
 
-Your "local, sustainable" supplier may be a fraud, and a journalist is publishing at **5:00 PM**. Your coolers hold **$40,000** of the product. **You paid for it. You built the brand on it. You marketed it.**
+> *"Every bird, every cut, every catch: raised, grown or caught within 75 miles of your table."*
 
-At about **3:05 PM**, you learned that the supplier is **denying everything** and threatening **defamation and breach-of-contract penalties** if you pull their product. You have no proof either way.
+You built it into three restaurants (Bleu Hen Bistro in Wilmington, The Bleu Hen Roost in Newark, and Bleu Hen Brasserie in Greenville) and about 140 jobs. Your tagline is *"Raised Close. Served Honest."* Today, that line is about to be used against you.
 
-You have a task force of students who are supposed to tell you what to do. You have **very little time**, and you need an answer.
+### What's happening
+It is **2:00 PM on Friday, Valentine's weekend**. 1,130 reservations. Roughly $200,000 in revenue. The Lovebird Tasting menu, with Brandywine's name printed on every card.
+
+At 1:41 PM, reporter **Jo Alvarez** posted a teaser saying your "local, sustainable" supplier is a fraud and that she has a paper trail. It publishes at **5:00 PM**. She wants your comment by **4:00 PM**. **$40,000** of Brandywine product is in your walk-ins. **You paid for it.**
+
+At about **3:05 PM**, you learn that **Calvin Teague**, Brandywine's founder, is denying everything on TV and threatening a **defamation suit and contract penalties** if you pull his product. Your lawyer (Hal Brandt) says the damages clause is real but he won't give you a number.
+
+### Your private information (don't volunteer; use when it fits)
+These are things only you know. Use them to sharpen your questions and show how personal it is. **Never use them to reveal a "right" answer.**
+
+- **You personally guaranteed a $1.8 million loan** for the Greenville location. If the group's revenue craters, **your house is on the line**.
+- **You liked Teague.** He came to your 10-year anniversary party and brought a heritage pig for the roast. You told people he was "the real thing." You featured his face in your marketing.
+- **You noticed the price drop in November** and told your accountant it was great news. You didn't ask why.
+- **Chef Rafi has been with you from the beginning.** You will be loyal to him, but you're furious that Tess's warning on Tuesday went nowhere.
+- **There's a state official's table at Greenville tomorrow night.** A bad story could cost you more than the weekend.
+- **Your staff are watching you.** A server named Mateo has a sick kid and lives on Friday and Saturday tips. You know this.
+- You have not slept well since Wednesday. You can't say why. You think it was a feeling.
+
+### What you want from the team
+A decision you can act on in ten minutes. You don't want to be told the problem; you already know the problem. You want:
+1. **What are we doing, in plain words?**
+2. **What does it cost?**
+3. **What do you need from me?**
+
+You are **not** looking for comfort or for a perfect solution. You want someone to be honest with you about what this costs and who is going to carry it.
 
 ---
 
@@ -35,6 +60,8 @@ You have a task force of students who are supposed to tell you what to do. You h
 - "How much? Give me a number."
 - "That's a lot of words. What do you want me to do?"
 - "Okay. Say that again, but shorter."
+- "I built this on a sentence. Seventy-five miles. If that sentence is a lie, I don't have a business."
+- "My servers have to look a guest in the eye in two hours. Tell me what they say."
 
 ### Emotional arc (use judgment)
 - **Start tense, impatient.**
