@@ -1,7 +1,7 @@
 # ROLE PLAYER BRIEFING: "The Restaurant Group Owner"
 
 **Your role:** The Owner of a three-location, farm-to-table restaurant group.
-**Your job:** Pressure-test four teams of students as they pitch you, in character, in a crisis. You are the "executive judge."
+**Your job:** Pressure-test two teams of ten students as they pitch you, in character, in a crisis. You are the "executive judge."
 **You are NOT:** A villain, a lecturer or a source of the right answer. You never reveal a preferred strategy.
 
 ---
@@ -51,18 +51,20 @@ You have a task force of students who are supposed to tell you what to do. You h
 2. **Cut off anyone reading from a script.** Say, "Stop reading. Look at me." Wait. Make them restart in their own words.
 3. **Force eye contact.** If a spokesperson is staring at notes or the floor, say their name or "Look at me, not the paper."
 4. **Interrupt often but not constantly.** Roughly every 20 to 40 seconds. Let them land a full sentence now and then, so the interruptions mean something.
-5. **Make them answer.** If they dodge, repeat the question: "That didn't answer it. Who? How much? When?"
-6. **Reward directness.** When they give you a number or a clear call, acknowledge it briefly ("Okay.") and keep moving.
-7. **Use the mid-point inject.** The supplier lawsuit threat is on the table. Make teams explain how it affects their plan.
-8. **Stay in character the entire time** until the facilitator breaks it at 70:00.
-9. **Be consistent across teams.** Ask each team at least 3 pressure questions. Don't go easy on a team because they're friendly.
-10. **Never give the "right answer."** Don't say "You should have done X."
-11. **Don't demean individuals.** Challenge the logic and delivery, not the person.
+5. **Cold-call the team.** You have about 8 minutes of questioning per team and each team has 10 people. After the spokesperson's first answers, turn to a **different team member** and put a question to them directly ("You. Who wrote point two? Why?"). Question at least **two people other than the spokespeople** per team. Don't let a spokesperson rescue a teammate unless you invite it.
+6. **Make them answer.** If they dodge, repeat the question: "That didn't answer it. Who? How much? When?"
+7. **Reward directness.** When they give you a number or a clear call, acknowledge it briefly ("Okay.") and keep moving.
+8. **Use the mid-point inject.** The supplier lawsuit threat is on the table. Make teams explain how it affects their plan.
+9. **Stay in character the entire time** until the facilitator breaks it at 70:00.
+10. **Be fair across the two teams.** Ask each team at least **5 pressure questions** and give each roughly the same questioning time. Don't go easy on a team because they're friendly or because they pitch second. Remember that the second team did **not** hear the first pitch, so don't assume they know what you just asked.
+11. **Test consistency between answers.** If the spokesperson says one thing and a teammate says another, call it out: "She said X, you said Y. Which is it?"
+12. **Never give the "right answer."** Don't say "You should have done X."
+13. **Don't demean individuals.** Challenge the logic and delivery, not the person.
 
 ### Boundaries (for safety and learning)
 - Keep a professional tone: no insults, profanity or personal attacks.
 - If a student seems genuinely distressed (not just nervous), soften and say, "Take a breath. Give me your first sentence again." The facilitator may also signal a reset.
-- Time discipline: the facilitator will chime at 3:00 and hard stop at about 6:00 per team. Wrap up when signaled.
+- Time discipline: the facilitator will chime at 3:00 (the pitch ends there) and call a hard stop about 11:00 into each team's slot. Wrap up when signaled.
 
 ---
 
@@ -73,14 +75,16 @@ You have a task force of students who are supposed to tell you what to do. You h
 | **0:00 to 0:30** | Interrupt early with a framing question: "Bottom line. What are we doing?" |
 | **0:30 to 2:00** | Probe the **weakest point** in their strategy using the pressure questions below. |
 | **2:00 to 3:00** | Challenge cost, execution or communications. Check for eye contact and script reading. |
-| **3:00 to ~5:30** | Q&A. Make them commit: "Last question: what's the one thing you need from me right now?" |
-| **Close** | Give a short in-character verdict (one or two sentences). |
+| **3:00 to ~6:00** | Q&A, round one. Run through the pressure questions that match their strategy. Cold-call at least two non-spokespeople. |
+| **~6:00 to ~10:00** | Q&A, round two. Go after inconsistencies between deliverables and between teammates' answers, and make them defend cost numbers. |
+| **~10:00 to 11:00** | Make them commit: "Last question: what's the one thing you need from me right now?" |
+| **Close** | Don't give a verdict yet. Say only "Thank you. Next." You will deliver your decision after both teams have pitched (see Section 7). |
 
 ---
 
 ## 5. Pressure Questions
 
-Read the team's strategy as they pitch, then choose the matching question(s). **Use at least 3 per team.** Stay in character and push back on weak answers with a follow-up.
+Read the team's strategy as they pitch, then choose the matching question(s). **Use at least 5 per team.** With about 8 minutes of Q&A, use the follow-ups, and expect to ask 7 or 8 questions. Stay in character and push back on weak answers with a follow-up.
 
 ### Q1: If they SCRAP the food (pull the product, cancel or re-plan service)
 > **"Who is paying to replace the $40,000 in the walk-in right now?"**
@@ -164,15 +168,24 @@ Read the team's strategy as they pitch, then choose the matching question(s). **
 
 ---
 
-## 7. Closing Each Pitch
+## 7. The Owner's Call (after both pitches)
 
-At the end of Q&A, give a short in-character verdict. Keep it to 1 to 2 sentences, **non-evaluative about "right answer," focused on your gut as the Owner.** Examples:
+After the second team finishes, you have **one minute** to deliver your decision, in character, to the whole room. You have heard two plans. Say which one you would act on right now and why. This is a gut-level executive decision, not a score.
 
-- **Strong:** "Fine. You're clear and you gave me the real cost. I'll make the call. Go."
-- **Mixed:** "I like parts of it, but I'm still worried about the lawsuit. We'll talk."
-- **Weak:** "I'm not there yet. I don't have an answer I can act on."
+Cover:
+1. **Which plan** (or which parts of each) you would act on, in bottom-line terms.
+2. **The one thing each team failed to answer.**
 
-Then stay quiet and let the facilitator move on.
+Rules:
+- Do not say who "won." Say what you would do and what worries you.
+- If the two teams picked the **same strategy**, compare **execution**: whose numbers held up, whose deliverables matched, whose people could answer cold.
+- Keep it under a minute. The facilitator will break character at 70:00.
+
+**Examples**
+- "I'm going with Team 1's call to pull the product. They gave me the real cost and every person in the room could back it up. Team 2, you never told me who's on camera at 6:00. Move."
+- "Same plan on paper. Team 2's kitchen instructions matched their server script; Team 1's didn't. I'd go with Team 2, but I still want a lawyer on the phone."
+
+Don't evaluate teams between pitches. Say only "Thank you. Next." and stay in character.
 
 ---
 
@@ -192,5 +205,6 @@ Keep feedback specific and behavior-based (what they said and did), not personal
 - [ ] Read this briefing twice, including all six pressure questions.
 - [ ] Meet the facilitator 15 minutes early; agree on the **reset signal**.
 - [ ] Have a watch or phone in hand (props help the persona).
+- [ ] Plan your **one-minute Owner's Call** (see Section 7).
 - [ ] Decide your **opening line** (e.g., "I've got ten minutes. Go.").
-- [ ] Remember: **interrupt early, don't let anyone read, make them look at you.**
+- [ ] Remember: **interrupt early, don't let anyone read, make them look at you, and cold-call the whole team.**

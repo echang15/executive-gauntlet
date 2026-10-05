@@ -50,14 +50,31 @@ What servers and hosts say to guests **when the article drops at 5:00 PM**. A se
 
 ## 5. Rules of Engagement
 
+- **Teams:** Two teams of 10. You are competing against another team facing the same crisis, and the Owner will hear both plans.
 - **Prep time:** 25 minutes in the War Room.
-- **Pitch time:** 3 minutes per team, delivered to the Owner.
-- **Spokespeople:** Elect **1 or 2** spokespeople. Everyone contributes, but only they speak.
+- **Pitch time:** 3 minutes to pitch, followed by about 8 minutes of questioning from the Owner.
+- **Spokespeople:** Elect **1 or 2** spokespeople to deliver the pitch. Everyone contributes to the plan.
+- **Everyone must be ready to answer.** During questioning, the Owner may turn to **any member of your team** and demand an answer. Nobody gets to hide behind the spokespeople.
+- **Deliverables lock at 45:00.** You will hand in a copy of all three deliverables before the Gauntlet. No edits after that.
+- **Pitch order is drawn at the start of the Gauntlet.** The team pitching second will wait outside the room during the first pitch, so prepare as if you could be first.
 - **Expect interruptions.** The Owner is stressed, short on time and will cut in early and often. Be ready to answer a question mid-sentence and pick your pitch back up.
 - **Don't read to the Owner.** Notes are fine. A script read aloud is not.
 - **Be ready for new information.** Conditions may change during the War Room. A team that cannot adapt will not survive the Gauntlet.
 
-## 6. Pitch Structure
+## 6. Suggested Way to Work (optional)
+
+Ten people cannot all write one 3-sentence memo. Splitting the work is allowed and recommended, as long as the final package is consistent.
+
+- **Strategy squad (about 3):** decides the overall strategy and drafts the BLUF memo.
+- **Kitchen squad (about 3):** drafts the Chef's 3-point operational pivot.
+- **Guest squad (about 3):** drafts the 2-sentence front-of-house script.
+- **Spokesperson(s) (1 or 2):** sit in with each squad, own the pitch structure, and make sure all three deliverables tell the **same story**.
+
+Reconvene as a full team by **minute 40** and use the last 5 minutes to check that your three deliverables don't contradict each other. Contradictions between deliverables are exactly the kind of thing the Owner will find.
+
+---
+
+## 7. Pitch Structure
 
 Use this order. Every second counts.
 
@@ -66,7 +83,7 @@ Use this order. Every second counts.
 3. **Immediate Cost:** what this costs in dollars and consequences, with no sugarcoating.
 4. **The Ask:** the specific decision or resource you need from the Owner, right now.
 
-## 7. Questions to Consider
+## 8. Questions to Consider
 
 *These are prompts, not hints toward a right answer.*
 

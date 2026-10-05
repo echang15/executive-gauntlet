@@ -1,7 +1,7 @@
 # FACILITATOR'S GUIDE: "The Friday Counterfeit"
 
 **Format:** 80-minute live leadership simulation
-**Participants:** 20 students in 4 teams of 5
+**Participants:** 20 students in 2 teams of 10
 **Role Player:** 1 person playing the Restaurant Group Owner
 **Your job:** Keep time, hold the line on structure, and make sure the learning lands. Do not coach teams toward an answer.
 
@@ -23,7 +23,7 @@ By the end, participants can:
 | 00:00 – 15:00 | **Primer** | 15 | Teach BLUF, triage, pitch structure |
 | 15:00 – 20:00 | **The Drop** | 5 | Form teams, distribute briefings |
 | 20:00 – 45:00 | **War Room** | 25 | Timekeep; deliver inject at **35:00** |
-| 45:00 – 70:00 | **The Gauntlet** | 25 | Run 4 pitches, about 6 min each |
+| 45:00 – 70:00 | **The Gauntlet** | 25 | Run 2 pitches (about 11 min each) and the Owner's Call |
 | 70:00 – 80:00 | **Debrief** | 10 | Break character; run debrief questions |
 
 ---
@@ -32,19 +32,20 @@ By the end, participants can:
 
 ### Before participants arrive (arrive 30 minutes early)
 
-- **Four tables**, spaced so teams cannot overhear each other. Five chairs each. Label them **Table 1 to 4**.
+- **Two team tables**, placed as far apart as the room allows so teams cannot overhear each other. Ten chairs each (or push two tables together). Label them **Table A** and **Table B**. Give each team a whiteboard or flip chart.
+- **A holding area** (hallway or adjoining room) where the team pitching second can wait out of earshot during the first pitch. If none exists, see the fallback in the Gauntlet section.
 - **One visual countdown timer**, visible from every table (projector, large display or screen share). Preload these countdowns: 15:00, 5:00, 25:00 and 3:00.
 - **A "Pitch Stage"**: one table or two chairs at the front facing the room. The Role Player sits here, with space for one team's spokespeople to stand in front.
 - **Printed materials**
   - 20 copies of the Participant Briefing (Document 1), face down at each seat.
-  - 4 copies of the **Mid-Point Inject card** (script below), in sealed envelopes marked "OPEN AT 35:00." Keep them with you.
+  - 2 copies of the **Mid-Point Inject card** (script below), in sealed envelopes marked "OPEN AT 35:00." Keep them with you.
   - Blank paper and pens at each table, plus one whiteboard or flip chart per table if available.
 - **Slide or whiteboard** with the pitch structure: Current State, Proposed Action, Immediate Cost, The Ask.
 - **A bell, chime or hand-held timer** for pitch time signals.
 - **Brief the Role Player** at least 15 minutes before the session. Confirm they have Document 3. Agree on one subtle signal to end an over-long Q&A.
 
 ### Seating
-Assign teams in advance if you can. Mix backgrounds and majors so no table is all technical or all business.
+Assign teams in advance if you can. Mix backgrounds and majors so neither team is all technical or all business, and keep the two teams balanced in experience. With 10 per team, name a **team captain** at each table to keep the room moving, and tell them they can split into sub-squads (see the Participant Briefing).
 
 ---
 
@@ -115,10 +116,10 @@ Confirm questions, then move straight into The Drop.
 
 ## 3. The Drop (15:00 – 20:00)
 
-- **15:00:** Announce the 4 teams of 5. Send people to their tables.
+- **15:00:** Announce the 2 teams of 10. Send people to their tables.
 - **15:30:** Read aloud only: *"It's 2:00 PM on Friday. You have until 5:00 PM. Turn over your briefing."*
 - **16:00 – 19:00:** Participants read silently. Do not answer strategy questions. Redirect with: *"That's one of the things you have to decide."* Clarifying logistics questions are fine.
-- **19:00:** Remind them: 3 deliverables, a spokesperson (1 or 2), and a 3-minute pitch.
+- **19:00:** Remind them: 3 deliverables, 1 or 2 spokespeople, a 3-minute pitch, and about 8 minutes of Owner questions. Remind them that **the Owner may question anyone on the team**, and that deliverables lock at 45:00. Suggest splitting into three sub-squads, and tell them to reconvene as one team by about minute 40.
 - **19:30:** Final reminder that the War Room starts in 30 seconds.
 - **20:00:** Start the 25:00 timer. **Say: "War Room is open. Clock is running."**
 
@@ -129,14 +130,15 @@ Confirm questions, then move straight into The Drop.
 ### What you do
 - Walk the room quietly. Observe. **Do not coach.**
 - Note for the debrief: who is leading, who is silent, how teams argue, and what they decide.
-- Time calls: **at 30:00** (10 min elapsed), **at 40:00** (5 min left), **at 43:00** (2 min left), **at 44:30** ("Spokespeople, stand up").
+- Time calls: **at 30:00** (10 min elapsed), **at 40:00** (5 min left; "Reconvene as one team and check that your three deliverables match"), **at 43:00** (2 min left), **at 44:30** ("Spokespeople, stand up. Hand me your deliverables.").
+- Watch for a team where 2 or 3 people dominate. Note it for the debrief; don't intervene.
 - If a team is stuck on analysis paralysis, ask only: *"What would you tell the Owner if the call were in 60 seconds?"*
 
 ### MID-POINT INJECT: exactly at 35:00 (15 minutes into the War Room)
 
 **Preparation**
-- Pre-seal four identical copies of the card below in envelopes. Each is marked "OPEN AT 35:00: URGENT."
-- At **34:30**, stand at the center of the room holding all four envelopes so everyone sees you.
+- Pre-seal two identical copies of the card below in envelopes. Each is marked "OPEN AT 35:00: URGENT."
+- At **34:30**, stand at the center of the room holding both envelopes so everyone sees you.
 
 **Delivery script (say this, then walk the envelopes to tables)**
 > *[Pause. Lower your voice. Walk quickly.]*
@@ -183,17 +185,37 @@ Do not resolve the dilemma for them.
 
 ## 5. The Gauntlet (45:00 – 70:00)
 
-### Setup
-- Role Player seated at the Pitch Stage. Timer visible.
-- Draw the order of pitching by lot, or choose by table number. Announce it.
-- **Budget:** 3 minutes of pitch (interruptions count against the pitch time and extend into the rest of the slot) plus about 2.5 minutes of Q&A, then a 30-second transition. About 6 minutes per team, 4 teams, 24 minutes total, with 1 minute of buffer.
+With two teams, each team gets about 11 minutes: the 3-minute pitch plus about 8 minutes of Owner questioning. The session closes with the Owner choosing between the two plans.
+
+### Clock
+
+| Clock | What happens |
+|---|---|
+| **45:00 – 46:00** | **Lock and draw.** Collect one copy of each team's three deliverables (no edits after this). Draw pitch order by coin flip or card. The **second team** moves to the holding area. |
+| **46:00 – 57:00** | **Team 1:** 3:00 pitch, then about 8:00 of Owner questioning. |
+| **57:00 – 58:00** | **Swap.** Team 2 returns to the room; Team 1 stays seated as the audience. Reset the timer. |
+| **58:00 – 69:00** | **Team 2:** 3:00 pitch, then about 8:00 of Owner questioning. |
+| **69:00 – 70:00** | **The Owner's Call.** The Role Player, in character, gives a one-minute verdict (see below). |
+
+### Why the second team waits outside
+The second team would otherwise hear the first team's strategy and the Owner's objections, which is an unearned advantage. The hold keeps the contest fair and models a real condition: **you don't get to see the other plan first.**
+
+- **Holding area:** If you have a second adult, send them with the second team. Tell the team they may **talk about delivery** but may **not change deliverables**; copies are already locked.
+- **Fallback (no hallway):** The second team stays in the room, seated at the back, with a verbal rule: **no edits, no note-passing, no commentary.** Warn the Owner that Team 2 will have heard Team 1's questions, so Team 2 questioning should lean on cold-calls and follow-ups rather than the standard openers.
+- **Team 1 during Team 2's pitch:** Team 1 sits as the audience. They may take notes but may not speak.
 
 ### Your role during each pitch
-1. **Announce:** "Table [N], you have three minutes. Role Player, the floor is yours."
-2. Start the 3:00 timer when the spokesperson begins speaking.
-3. **Chime at 2:00 and 3:00.** At 3:00, the Role Player may continue to question for up to 2.5 more minutes.
-4. **Hard stop:** At about 5:30 to 6:00 elapsed, thank the team and call the next table. If the Role Player is mid-question, let them finish the sentence, then move on.
-5. Take notes using the scoring checklist below.
+1. **Announce:** "Team [X], you have three minutes. Owner, the floor is yours."
+2. Start the 3:00 timer when the spokesperson begins speaking. Chime at **2:00** and **3:00** (the pitch itself ends at 3:00, even if the Owner has been interrupting).
+3. After 3:00, the Owner runs about 8 minutes of questioning. **Chime at 8:00 after the pitch ends** (roughly 11:00 elapsed).
+4. **Hard stop at 11:00.** Let the Owner finish the sentence in progress, then call time.
+5. Take notes using the checklist below. The long Q&A is where the real separation happens between the teams.
+
+### Q&A mechanics with 10-person teams
+- The Owner may **cold-call any team member** with a question. When this happens, the person answers directly; the spokesperson does not rescue them.
+- Encourage the Owner to ask at least **two different people** a question per team.
+- If a question needs a deliverable author, the Owner can ask: "Who wrote point two? Stand up and tell me why."
+- Let teammates add to an answer only if the Owner invites it.
 
 ### Observation checklist (private)
 For each team, note:
@@ -205,9 +227,18 @@ For each team, note:
 - [ ] Held eye contact; avoided reading?
 - [ ] Recovered after interruptions?
 - [ ] Did the FOH script sound human?
+- [ ] Did teammates besides the spokespeople answer cold-calls clearly?
+- [ ] Did the team's answers stay consistent from person to person?
+
+### The Owner's Call (69:00 – 70:00)
+After both pitches, the Role Player gives a one-minute verdict, **in character**, covering:
+1. Which plan (or which parts of each) they would act on right now, and why, in bottom-line terms.
+2. The one thing each team failed to answer.
+
+Keep it short. It's a decision, not a grade. The two teams may have chosen the same strategy; in that case the Owner compares **execution and communication**, which makes a strong debrief point.
 
 ### Audience instructions
-Tell audience teams at 44:00: *"While others pitch, you're advisors. Write down one thing they did that you'd steal and one question you'd have asked."* Audience members **do not** speak during pitches.
+While the other team pitches, the audience team writes down one thing they'd steal and one question they'd have asked. They **do not** speak during pitches.
 
 ---
 
@@ -221,6 +252,8 @@ Stand up. Thank the Role Player and have them step out of persona, ideally with 
 Quickly reveal your own observations for 60 seconds. Name two specific, positive things you saw. Do not rank teams unless you promised to.
 
 ### Debrief Framework (use 3 to 4 questions, about 2 minutes each)
+
+**Opening comparison (1 minute, ask first):** "Two teams, the same crisis. Did you choose the same strategy? If not, what did each of you weigh differently? If so, what separated the two pitches?" With only two teams, the comparison itself is the lesson: the strategy mattered less than the clarity, consistency and ownership shown under pressure.
 
 **Q1. Decision-making with incomplete data**
 > "You never knew whether the journalist was right. How did you decide anyway? What would you have wanted to know, and what would it have cost you to find out before 5:00?"
@@ -270,8 +303,9 @@ Give three takeaways, then end on time:
 | Running behind during Primer | Cut the BLUF drill; keep the contrast demo. Never cut the pitch structure. |
 | A team finishes early | Challenge them: "Your FOH script. Say it out loud to a stranger. Does it hold up?" |
 | A team is stuck | Ask only: "What's the first thing you'd say to the Owner?" |
-| Pitches run long | Chime at 3:00 and enforce the hard stop at about 6:00 per team. |
+| Pitches run long | Chime at 3:00 and enforce the hard stop at about 11:00 per team. Protect the Owner's Call; shave Q&A before you cut it. |
 | Role Player goes too harsh | Use the agreed signal; give the team a 15-second reset ("Take a breath, Owner, give them one more shot."). |
-| Fewer or more than 20 participants | Use 3 or 5 teams. Keep 25 minutes of War Room, shorten Q&A to 2 minutes if 5 teams. |
+| Fewer or more than 20 participants | Two teams work for roughly 8 to 24 people. Keep teams within 1 or 2 people of each other. Under 8, shrink to 2 teams of 3 or 4 and keep the Q&A at 6 minutes. Over 24, consider a third team and reduce Q&A to about 5 minutes each. |
+| A team is much louder than the other | Let the Owner cold-call the quiet members; this naturally rebalances the Q&A. |
 | Technology failure (timer) | Use a phone countdown on a document camera, or a big analog timer. |
 | Strong emotional response | Pause briefly and acknowledge it; it's evidence the simulation works. Return to structure. |
